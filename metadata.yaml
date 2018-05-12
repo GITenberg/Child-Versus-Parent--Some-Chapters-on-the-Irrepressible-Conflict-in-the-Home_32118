@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35670'
     url: http://www.gutenberg.org/2009/agents/35670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32118#Child-Versus-Parent--Some-Chapters-on-the-Irrepressible-Conflict-in-the-Home
 gutenberg_issued: '2010-04-24'
 gutenberg_type: Text
 identifiers:
